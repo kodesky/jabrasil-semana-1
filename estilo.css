@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial';
+    background-color: rgba(47, 53, 66,1.0);
+}
+
+#titulo {
+    color: rgb(83, 82, 237);
+}
+
+.produto {
+    padding: 25px;
+    padding-left: 50px;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 15px;
+    border-bottom: solid 5px red;
+}
+
+.produto h3 {
+    color: rgba(255, 0, 0, 1);
+}
+
+.produto img {
+    height: 120px;
+    border-radius: 5px;
+}
+
+.produto p {
+    color: white;
+}
